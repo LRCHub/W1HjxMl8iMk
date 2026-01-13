@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "...and Rescue Me",
+  "base_artist": "Rainy。",
+  "createdAt": "2026-01-13T15:25:26.832262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "...and Rescue Me",
+      "artist": "Rainy。",
+      "has_synced": true,
+      "path": "select/01_...and_Rescue_Me_Rainy。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come and Rescue Me",
+      "artist": "Pete and Zanna",
+      "has_synced": true,
+      "path": "select/02_Come_and_Rescue_Me_Pete_and_Zanna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "...and Rescue Me",
+      "artist": "Rainy。",
+      "has_synced": false,
+      "path": "select/pl_01_...and_Rescue_Me_Rainy。.txt"
+    }
+  ]
+}
